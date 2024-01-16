@@ -20,10 +20,6 @@ session_start();
       $product_price=$_POST["price"];
      
 
-      
-
-       
-
         $sql="INSERT INTO product(productName,price,image)
         values(?,?,?)";
   
