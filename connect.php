@@ -7,7 +7,6 @@
 
     die("you aren't connected to server");
  }
-
   
  ?>
   
