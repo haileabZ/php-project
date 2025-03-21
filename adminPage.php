@@ -150,7 +150,6 @@ nav a:hover {
  include "connect.php";
 
 
-
  
 
 if(isset($_POST["logout"])){
