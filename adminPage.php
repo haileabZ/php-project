@@ -152,7 +152,7 @@ nav a:hover {
 
 
  
- 
+
  
 
 if(isset($_POST["logout"])){
